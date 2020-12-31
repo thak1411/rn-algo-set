@@ -1,0 +1,9 @@
+*.out
+*.DS_STORE
+CMakeLists.txt
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/
+Makefile
+main.cc
+BUILD/
