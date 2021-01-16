@@ -6,4 +6,5 @@
 - 2021.01.05 23:35 Codeforces Round #694 (Div. 2)
 - 2021.01.08 23:35 Codeforces Round #695 (Div. 2)
 - 2021.01.10 21:00 AtCoder Beginner Contest 188
+- 2021.01.14 23:35 Educational Codeforces Round 102 (Rated for Div. 2)
 - 2021.01.16 21:00 AtCoder KEYENCE Programming Contest 2021
