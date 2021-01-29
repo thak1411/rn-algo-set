@@ -9,3 +9,4 @@
 - 2021.01.14 23:35 Educational Codeforces Round 102 (Rated for Div. 2)
 - 2021.01.16 21:00 AtCoder KEYENCE Programming Contest 2021
 - 2021.01.22 22:00 Codeforces Round #690 (Div. 3) - Virtual
+- 2021.01.29 23:35 Educational Codeforces Round 103 (Rated for Div. 2)
