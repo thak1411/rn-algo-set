@@ -12,3 +12,4 @@
 - 2021.01.23 21:00 AtCoder Beginner Contest 189
 - 2021.01.29 23:35 Educational Codeforces Round 103 (Rated for Div. 2)
 - 2021.04.10 23:35 Codeforces Round #713 (Div. 3)
+- 2021.04.11 23:35 Divide by Zero 2021 and Codeforces Round #714 (Div. 2)
